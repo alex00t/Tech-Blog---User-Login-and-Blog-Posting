@@ -1,0 +1,77 @@
+body {
+	
+}
+
+.primary-background {
+	background: #1e7e34;
+}
+
+.banner-background {
+	clip-path: polygon(50% 0%, 79% 0, 100% 0, 100% 100%, 80% 90%, 50% 100%, 20% 90%, 0
+		100%, 0 0, 20% 0);
+}
+
+element.style {
+	
+}
+
+.list-group-item.active {
+	z-index: 2;
+	color: #fff;
+	background-color: #1e7e34;
+	border-color: #1e7e34;
+}
+/* .card-footer.gd {
+    padding: 0.75rem 1.25rem;
+    background-color: #1e7e34;
+    border-top: 1px solidrgba(0,0,0,.125);
+} */
+.Title_post {
+	font-weight: 100;
+	font-size: 30px;
+}
+
+.Containt_post {
+	font-weight: 100;
+	font-size: 20px;
+}
+.Date_post{
+	font-style: italic;
+	font-weight: 200;
+	
+	
+}
+.Name_post{
+	font-size: 20;
+	font-weight: 300;
+}
+.row_user_post{
+	border: 1px solid #e2e2e2;
+	padding-top:15px; 
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
